@@ -12,7 +12,8 @@
     "react-scripts": "^3.4.3",
     "react-test-renderer": "^16.13.1",
     "redux": "^4.0.5",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
